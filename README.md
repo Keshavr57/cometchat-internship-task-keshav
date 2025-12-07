@@ -48,6 +48,8 @@ You get these from your CometChat Dashboard.
 📌 Internship Findings (Main Required Section)
 1️⃣ Dashboard
 
+
+
 Expected: Clear starting point & quick setup
 Actual: UI Kit Builder is slightly hidden behind multiple menu items
 Issue: First-time users may feel unsure where to begin
@@ -82,13 +84,13 @@ Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
 UI Kit Builder
-![UI Builder](screenshots/builder.png)
+![UI Builder](screenshots/UIKitBuilder1.png)
 
 Terminal & Setup
-![Setup](screenshots/setup.png)
+![Setup](screenshots/Export+setup.png)
 
 Chat Running 💬
-![Chat](screenshots/chat.png)
+![Chat](screenshots/Chatworkingscreen.png)
 
 
 (Replace names based on your folder)
