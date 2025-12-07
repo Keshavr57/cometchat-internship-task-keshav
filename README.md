@@ -81,7 +81,7 @@ Suggestion: Show “Welcome, click to start chatting” message
 
 📝 Screenshots
 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 UI Kit Builder
 ![UI Builder](screenshots/UIKitBuilder1.png)
@@ -93,7 +93,7 @@ Chat Running 💬
 ![Chat](screenshots/Chatworkingscreen.png)
 
 
-(Replace names based on your folder)
+
 
 🎯 Summary of Recommendations
 
